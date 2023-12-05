@@ -1,1 +1,4 @@
-# react-native-rent-a-car
+# ReactNative 
+
+-> npm install
+-> npm start
